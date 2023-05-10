@@ -1,0 +1,248 @@
+{
+  "products": [
+    {
+      "title": "Числа в JAVASCRIPT. Тип данных number. Работа с числами.",
+      "description": "Created for the hardwood but taken to the streets, the '80s b-ball icon returns with classic, stone-washed canvas in a durable design. Channeling vintage style back onto the streets, its padded, mid-cut collar lets you take your game anywhere—in comfort.",
+      "price": "115",
+      "category": "java script",
+      "image": "https://i.ytimg.com/vi/tiHvPGOX5yc/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJ-RX6R67TWiVCuH_mjzfrSjk7LA",
+      "id": 2
+    },
+    {
+      "title": "Функции в JAVASCRIPT. Стрелочные функции, рекурсия",
+      "description": "One word: tradition. From heritage running to fashion phenom to movie star, the Cortez's retro appeal, sponge-soft midsole and seesaw detailing deliver decade after decade. This fresh take on the ubiquitous look goes big on vintage vibes with suede accents and throwback branding. The classic varsity color combo keeps your style sporty, while the gum rubber outsole puts the cherry on the bottom.",
+      "price": "100",
+      "category": "java script",
+      "image": "https://i.ytimg.com/vi/6cKoB5ijaGA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWYfy45Crz-ce50dQQrghibg8Bog",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "title": "JQUERY ПРОТИВ JAVASCRIPT. Стоит ли учить jQuery в 2021?",
+      "price": "70",
+      "description": "Run, spin, lift, stretch—no matter where your workout takes you, we have you covered in the sweat-wicking Primary Top. We designed it to be soft and comfortable, with underarm ventilation to help keep you cool during your reps.",
+      "category": "java script",
+      "image": "https://i.ytimg.com/vi/mX_jE18Zuyg/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpjukkAmlw9aY_sUZ3kjTt-Odz7w",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+      "id": 5,
+      "title": "Что такое JAVASCRIPT? Как работает JS? Пишем на JavaScript.",
+      "price": "100",
+      "description": "Celebrate the power and simplicity of the Swoosh. This warm, brushed fleece hoodie is made with some extra room through the shoulders, chest and body for easy comfort and laid-back, nostalgic style. Thick, stretchy ribbing at the cuffs and hem help hold the hoodie in place when you move and seal in your warmth when conditions cool. Our Solo Swoosh is embroidered on the left chest to keep your look clean and effortless.",
+      "category": "java script",
+      "image": "https://i.ytimg.com/vi/wdViO9OcQzs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAqAYnuJcTgkFowlkCUu9ftispWg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "title": "Основы синтаксиса JAVASCRIPT. Структура кода. Инструкции.",
+      "description": "You ever daydream about Georgia in the spring? We do. With its peach-fuzz tones complementing a clean base, this version is perfect for a long stroll through a warm, inviting Southern breeze. Two large Zoom Air units, more room for your feet and enhanced traction help you through your round, while radiant brights and extra-juicy goodness throughout remind you to keep it fresh, always.",
+      "price": 180,
+      "category": "java script",
+      "image": "https://i.ytimg.com/vi/uOeFpp872MY/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_LvK-Z2SVlHMSnvWIBh74q0iyTA",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "title": "Переменные в JAVASCRIPT. Константы. Ключевые слова LET CONST VAR.",
+      "price": 110,
+      "description": "Meet your new go-to hoodie. Heavyweight fleece feels super soft, and the comfy, relaxed fit will have you reaching for it again and again. An oversized Jumpman label is sewn on front-and-center, making this wardrobe staple anything but basic.",
+      "category": "java script",
+      "image": "https://i.ytimg.com/vi/5V8IeATHr4w/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCRcU-ToqTfOcw9p8yMeUNGzAetTw",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 8,
+      "title": "Типы данных JAVASCRIPT. Null String Undefined Boolean Number и другие.",
+      "price": 140,
+      "description": "Train strong and stay cool in this warm-up jacket. Its breathable woven material is complimented by underarm eyelets that let in more air. Still not enough? Unzip and hang loose. A Jordan woven patch and luxe metal zipper keep your look perfectly fly.",
+      "category": "java script",
+      "image": "https://i.ytimg.com/vi/g7jDucodUzQ/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDSXZMFDimbWo2Es8veJKTVjgG3g",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 9,
+      "title": "IF ELSE в JAVASCRIPT. Условный оператор '?'. Примеры IF ELSE.",
+      "price": 55,
+      "description": "A closet staple, the Nike Sportswear Club Fleece Joggers combine a classic look with the soft comfort of fleece for an elevated, everyday look that you can wear every day.",
+      "category": "java script",
+      "image": "https://i.ytimg.com/vi/tFyRhDZgHaU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMoyCAPO6vTHb1yOf0cICx71hgcA",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 10,
+      "title": "Циклы FOR и WHILE в JavaScript. Директивы break и continue.",
+      "price": 95,
+      "description": "Since 1978, the Windrunner jacket has been celebrated for its bold simplicity. Now, you can pair this iconic jacket with matching pants for a complete, uniform look. They're made with crisp woven fabric for a smooth feel, and lined with mesh for air-cooled comfort.",
+      "category": "java script",
+      "image": "https://i.ytimg.com/vi/QjDzp-yM_To/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwpGlTUbkVlEXYY6hN8rhLRwqn1w",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 11,
+      "title": "CSS animation и @keyframes за 12 минут. Подробный разбор CSS анимации",
+      "price": 50,
+      "description": "Sit back and relax—or not. These comfy, versatile pants have a plush, heavyweight feel and an intentionally washed-out look. A zippered pocket lets you securely stash essentials if you decide to head out.",
+      "category": "CSS",
+      "image": "https://i.ytimg.com/vi/GKgOOuTL0po/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGUGglKDrQ3fh1nkUJThvNTugFJw",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 12,
+      "title": "Все о CSS переходах (transitions) за 16 минут. CSS анимация.",
+      "price": 70,
+      "description": "This jacket is a lightweight grab-and-go layer made of woven nylon fabric designed in an easy pullover style making it great for spring or summer weather. The quarter-zip closure makes dressing and temperature regulation easy, encased elastic at the cuffs and hem help retain warmth and side seam pockets help secure small items. Additionally, the jacket is fully lined with knit mesh fabric enhanced with quick-drying, moisture-wicking Dri-FIT technology to help kids stay cool and dry while they play.",
+      "category": "CSS",
+      "image": "https://i.ytimg.com/vi/yZFg3cuq_LU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsMGOOWwOlC7Uv9ewbM7F7Ai4TNw",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 13,
+      "title": "Геометрические фигуры на HTML и CSS Треугольник стрелка круг трапеция и др.",
+      "price": 40,
+      "description": "This hoodie is made of snuggly plush sherpa fabric for the ultimate in lightweight warmth. The roomy cut is full of cozy feels, and the full-zip closure makes layering and temperature regulation easy.",
+      "category": "CSS HTML",
+      "image": "https://i.ytimg.com/vi/Irj55RYH254/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNDc4dyi78XWeFyk_b7sm0ujlCmw",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 14,
+      "title": "Как сделать красивую кнопку с анимацией CSS HTML. CSS3 эффекты туториал",
+      "price": 60,
+      "description": "This lightweight hoodie is made of soft fleece fabric for all the cozy feels, and the roomy cut makes layering easy. Pair with the Nike Sportswear Club Marble Fleece Pants for a coordinated look.",
+      "category": "CSS HTML",
+      "image": "https://i.ytimg.com/vi/w00Z5y8jEjk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqkL58Kt3TJ5XhSh5AadjTkRxpaw",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 15,
+      "title": "Адаптивное (отзывчивое) CSS свойство. Как быстро адаптировать элементы.",
+      "price": 30,
+      "description": "This traditional hoodie has been given a modern twist. It is made of soft sueded fleece in an oversized, cozy cut that makes layering easy. The cropped cut still provides full coverage for a flattering look.",
+      "category": "CSS",
+      "image": "https://i.ytimg.com/vi/eaOAY0vIB4U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcl9C-ZsN8jjH__2FwA0mTLn4tVw",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 16,
+      "title": "Адаптивный шрифт. Пример реализации отзывчивого шрифта на CSS + SCSS",
+      "price": 70,
+      "description": "Rise up and transform your fleece wardrobe with the strong cozy vibes of Phoenix Fleece. With an extreme drop in the shoulders and extra room in the body, this voluminous hoodie will never hold you back or hem you in. Exaggerated details like an oversized front pocket and extra-tall ribbing on the cuffs and hem ensure your look is anything but basic.",
+      "category": "CSS",
+      "image": "https://i.ytimg.com/vi/HJZP5QsrpXs/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhvAGqcKTgZEDaSFVHKYE_-IXS8A",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 17,
+      "title": "HTML уроки. HTML теги. Тег DIV и другие. Уроки HTML CSS JS. часть 1",
+      "price": 70,
+      "description": "Rise up and transform your fleece wardrobe with strong cozy vibes. With a voluminous fit and exaggerated ribbing, this Phoenix Fleece sweatshirt gives you a look that's anything but basic.",
+      "category": "HTML",
+      "image": "https://i.ytimg.com/vi/z3GS5oYGq5U/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeABs_msOdsqJZze0AJTJASXr9kQ",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 18,
+      "title": "HTML уроки. Первый урок по HTML верстке. Уроки HTML CSS JS. часть 2",
+      "price": 50,
+      "description": "Phoenix Fleece breathes new life into your favorites, ensuring your look is anything but basic. The voluminous fit and exaggerated ribbing of this oversized layer bring strong cozy vibes to help you stay toasty all day long.",
+      "category": "HTML",
+      "image": "https://i.ytimg.com/vi/V1_2mV48lOk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkc7f1CtM_G8f7SfTIekt__7HZag",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 19,
+      "title": "Свойства и стили оформления блоков. CSS opacity. Уроки HTML CSS JS.",
+      "price": 90,
+      "description": "Wrap yourself in relaxation as you rest in this roomy, heat-regulating top. With soft wool fabric that sits gently against your skin and a wide, ribbed neckline, you'll feel cozy as you focus on your recovery between practices.",
+      "category": "CSS",
+      "image": "https://i.ytimg.com/vi/G4aOu26s4_s/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxCoT8kIEEg_y0e2YkYkI1SGkeZA",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 20,
+      "title": "ВЫГОРАНИЕ ПРОГРАММИСТА. Выгорание в IT: стадии причины лечение",
+      "price": 90,
+      "description": "With an extra roomy, cropped fit, this full-zip hoodie is made to pair with your favorite leggings. Its semi-brushed fleece fabric features inset mesh panels at the shoulders for an athletic look.",
+      "category": "motivation",
+      "image": "https://i.ytimg.com/vi/9EZ9D7Fns9g/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6606wtbRuo5vK-_PE4NaFrxrSqw",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 21,
+      "title": "Как НЕ БРОСИТЬ УЧЕБУ на программиста. Советы и мотивация. ",
+      "price": 70,
+      "description": "Rise up and transform your fleece wardrobe with strong cozy vibes. All about warmth and comfort, the longer cut of this full-zip hoodie lets you bring the snuggly feeling of your favorite throw blanket with you everywhere you go.",
+      "category": "motivation",
+      "image": "https://i.ytimg.com/vi/jgLiQfXZtmo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnou_uhdTIusUfqcNtFJrrI5EL9g",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "title": "Сколько зарабатывают программисты и другие IT-специалисты? ",
+      "description": "Cover up in cozy with this Paris Saint-Germain hoodie. It's made with brushed-back fleece in an exaggerated fit for an ultrasoft feel. Team graphics front and back show your PSG pride whether you're coming or going.",
+      "price": 80,
+      "category": "motivation",
+      "image": "https://i.ytimg.com/vi/NhpQiiVYEv4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxwI_Mxg6XP1HpRaOCqxwa9NCm2A",
+      "id": 22
+    },
+    {
+      "title": "БЫСТРАЯ ВЕРСТКА САЙТА. Как увеличить скорость? Cкорость так важна?",
+      "description": "Cover up in cozy with this Paris Saint-Germain hoodie. It's made with brushed-back fleece in an exaggerated fit for an ultrasoft feel. Team graphics front and back show your PSG pride whether you're coming or going.",
+      "price": "90",
+      "category": "motivation",
+      "image": "https://i.ytimg.com/vi/6S5Zw2WuyFE/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8DTFFA6tBpkJNvKYTXc2qfAfiww",
+      "id": 23
+    }
+  ]
+}
